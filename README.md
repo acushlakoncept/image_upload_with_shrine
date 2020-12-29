@@ -1,24 +1,41 @@
-# README
+# Photo App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a simple project to demonstrate how to implement image uploads using Shrine is 7 simple steps.
 
-Things you may want to cover:
+## Built With
 
-* Ruby version
+- Ruby on Rails
 
-* System dependencies
+# Getting Started
 
-* Configuration
+To get a local copy of the repository please run the following commands on your terminal:
 
-* Database creation
+```
+$ cd <folder>
+```
 
-* Database initialization
+~~~bash
+$ git clone https://github.com/acushlakoncept/image_upload_with_shrine.git
+$ cd image_upload_with_shrine
+$ bundle install 
+$ rails db:create 
+$ rails db:migrate
+~~~
 
-* How to run the test suite
+# Author
 
-* Services (job queues, cache servers, search engines, etc.)
+👤 **Uduak Essien**
 
-* Deployment instructions
+- Github: [@acushlakoncept](https://github.com/acushlakoncept/)
+- Twitter: [@acushlakoncept](https://twitter.com/acushlakoncept)
+- Linkedin: [acushlakoncept](https://www.linkedin.com/in/acushlakoncept/)
 
-* ...
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
